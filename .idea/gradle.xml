@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/Abstract_Factory" />
             <option value="$PROJECT_DIR$/Builder" />
             <option value="$PROJECT_DIR$/Factory" />
+            <option value="$PROJECT_DIR$/Prototype" />
             <option value="$PROJECT_DIR$/Singleton" />
           </set>
         </option>
