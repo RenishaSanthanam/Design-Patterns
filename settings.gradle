@@ -4,4 +4,5 @@ include 'Factory'
 include 'Abstract_Factory'
 include 'Builder'
 include 'Prototype'
+include 'Adapter'
 
