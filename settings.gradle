@@ -2,4 +2,5 @@ rootProject.name = 'DesignPattern'
 include 'Singleton'
 include 'Factory'
 include 'Abstract_Factory'
+include 'Builder'
 
