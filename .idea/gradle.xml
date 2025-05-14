@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Abstract_Factory" />
             <option value="$PROJECT_DIR$/Factory" />
             <option value="$PROJECT_DIR$/Singleton" />
           </set>
