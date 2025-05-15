@@ -6,4 +6,6 @@ include 'Builder'
 include 'Prototype'
 include 'Adapter'
 include 'Bridge'
+include 'Decorator'
+include 'Facade'
 
