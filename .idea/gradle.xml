@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Abstract_Factory" />
             <option value="$PROJECT_DIR$/Adapter" />
+            <option value="$PROJECT_DIR$/Bridge" />
             <option value="$PROJECT_DIR$/Builder" />
             <option value="$PROJECT_DIR$/Factory" />
             <option value="$PROJECT_DIR$/Prototype" />
