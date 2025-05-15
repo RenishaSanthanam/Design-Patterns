@@ -2,7 +2,7 @@ package org.example;
 
 public abstract class video {
 
-    videoProcessor videoProcessor;
+    protected videoProcessor videoProcessor;
 
     public video(videoProcessor videoProcessor){
         this.videoProcessor = videoProcessor;
